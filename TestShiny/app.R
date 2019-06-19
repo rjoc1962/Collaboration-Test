@@ -6,7 +6,7 @@
 #
 #    http://shiny.rstudio.com/
 #
-#Also look at ggplotly
+#Also look at ggplotly and plotly
 
 library(shiny)
 
